@@ -1,3 +1,6 @@
+# Preface
+This case study was conducted as a group with contributing members: Nabor Reyna, Sonia Malik, and Hamilton Carpenter. It was completed under a 6 hour time cap. 
+
 # Movie Recommender Case Study
 
 Today you are going to have a little friendly competition with your classmates.
